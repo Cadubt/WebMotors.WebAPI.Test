@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HPOzYDsqmbQkavONvWot3KwliooHdM5KY7CUyLt2hC5bGlvlZXoAjmoSQ927a7/f62OaBCVBlZSEs83slA0M6g==",
+  "dgSpecHash": "37Vs343TqZaoY9EpfVqOsCe0EzXA5XHNM+ANEheXFSU19Jva+Xyg2XdV+F36GaIEXwYVvt4H4NYc96bYTgTwdQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\WebMotors\\WebMotorsTest\\WebMotorsTest.csproj",
+  "projectFilePath": "C:\\Projetos\\Teste WebMotors\\WebMotors.WebAPI.Test\\WebMotorsTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

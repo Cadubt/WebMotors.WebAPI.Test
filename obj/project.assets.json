@@ -8623,11 +8623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\WebMotors\\WebMotorsTest\\WebMotorsTest.csproj",
+      "projectUniqueName": "C:\\Projetos\\Teste WebMotors\\WebMotors.WebAPI.Test\\WebMotorsTest.csproj",
       "projectName": "WebMotorsTest",
-      "projectPath": "C:\\Projetos\\WebMotors\\WebMotorsTest\\WebMotorsTest.csproj",
+      "projectPath": "C:\\Projetos\\Teste WebMotors\\WebMotors.WebAPI.Test\\WebMotorsTest.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\WebMotors\\WebMotorsTest\\obj\\",
+      "outputPath": "C:\\Projetos\\Teste WebMotors\\WebMotors.WebAPI.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
