@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebMotorsTest</name>
+    </assembly>
+    <members>
+        <member name="M:WebMotorsTest.Controllers.AdController.List">
+            <summary>
+            Responsible to get a list of all registered Ads
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebMotorsTest.Controllers.AdController.Create(WebMotorsTest.Models.AdModel)">
+            <summary>
+            Responsible to create an Ad
+            </summary>
+            <param name="ad"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebMotorsTest.Controllers.AdController.Update(WebMotorsTest.Models.AdModel)">
+            <summary>
+            Responsible to update an Ad
+            </summary>
+            <param name="ad"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebMotorsTest.Controllers.AdController.Delete(System.Int32)">
+            <summary>
+            Responsible to Delete a Ad informad by an Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebMotorsTest.Controllers.AdController.GetMake">
+            <summary>
+            Responsible to Get in webmotors's external service, a List of Make
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebMotorsTest.Controllers.AdController.GetModel(System.Int32)">
+            <summary>
+            Responsible to Get in webmotors's external service, a List of Car Models, using a Make Id as a search parameter
+            </summary>
+            <param name="makeId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebMotorsTest.Controllers.AdController.GetVersion(System.Int32)">
+            <summary>
+            Responsible to Get in webmotors's external service, a List of Car Versions, using a Model Id as a search parameter
+            </summary>
+            <param name="modelId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebMotorsTest.Controllers.AdController.GetVehicles(System.Int32)">
+            <summary>
+            Responsible to Get in webmotors's external service, a paginated List of Vehicles.
+            </summary>
+            <param name="page"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
